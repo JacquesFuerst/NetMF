@@ -8,5 +8,7 @@ The repository mainly contains the code for creating the NetMF embedding, and co
 The Youtube, BlogCatalog and Flickr datasets could not be uploaded due to the .csv files being larger than 25GB. They can be found under the following links:
 
 Youtube: http://datasets.syr.edu/datasets/YouTube2.html
+
 Flickr: http://datasets.syr.edu/datasets/Flickr.html
+
 BlogCatalog: http://datasets.syr.edu/datasets/BlogCatalog3.html
