@@ -9,11 +9,11 @@ Representation Learning' [1]. The focus lies specifically on the NetMF method, a
 
 This notebook file contains code to create a NetMF embedding in form of a .npy file, when used in google Colab, mounting a Google Drive repository. The parameters were set as in the original study [1]. The embedding can be created for any dataset from the pytorch_geometric library or .csv files as can be found on the datasets provided by the Arizona state university [3].
 
-### Link_prediction-final.ipynb
+### Link_prediction_final.ipynb
 
 Link prediction implementation for experiments on the NetMF embeddings. Works based on the embeddings in form of .npy files.
 
-### Node_classifcation-final.ipynb
+### Node_classification-final.ipynb
 
 Node classification implementation based on the code provided by the authors of [2]. Works based on the embeddings in form of .npy files.
 
